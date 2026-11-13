@@ -1,0 +1,10 @@
+# Generated PDFs and logs
+*.pdf
+*.log
+*.out
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
